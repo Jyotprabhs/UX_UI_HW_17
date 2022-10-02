@@ -1,6 +1,6 @@
 
 #header{
-  outline: 1px solid yellow;
+  /*outline: 1px solid yellow;*/
 }
 .container{
   padding: 10px 10%;
@@ -37,7 +37,7 @@ nav ul li a:hover::after{
   border-bottom: 2px solid black;
 }
 body{
-  outline: 1px solid red;
+  /*outline: 1px solid red;*/
 }
 
 .flexContainer{
