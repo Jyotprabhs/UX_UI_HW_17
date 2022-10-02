@@ -145,7 +145,7 @@ line-height: 29px;
 }
 
 footer{
-  height:500px;
+  height:300px;
   position:relative;
   display:flex;
   flex-direction: row-reverse;
